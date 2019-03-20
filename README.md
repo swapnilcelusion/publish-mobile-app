@@ -1,5 +1,5 @@
-# publish-mobile-app
-Steps to publish app on Google play and App Store
+# Initial setup for Mobile App
+Steps to setup account to publish app on Google play and App Store
 
 # Google Play
 This section is a step-by-step guide on how to successfully setup your account on the Google Play Store.
