@@ -29,7 +29,25 @@ You can see the 2 captions as individual and organisation. This is basic informa
 
 [2. Start your enrollment](https://developer.apple.com/programs/enroll/)
 
-It automatically detects loggedIn Apple Account if any otherwise you have to create Apple ID with email ID. You can use your gmail ID to create Apple Account.
+It automatically detects loggedIn Apple Account if any otherwise you have to create Apple ID with email ID. You can use your gmail ID to create Apple Account. It shows profile information for already loggedIn apple ID
+
+[3. Select Entity Type and Continue](https://developer.apple.com/programs/enroll/)
+
+If I select Organisation for instance then it asks organisation basic information
+
+[4. Submit Organisation Details](https://developer.apple.com/enroll/organization/)
+
+Keep ready below details for organisation
+1. D-U-N-S® Number
+2. Legal Entity Name - Include the entity type, such as Inc., LLC, GmbH, etc.
+3. Website
+4. Tax ID/National ID - Optional
+
+[5. Continue](https://developer.apple.com/enroll/organization/)
+
+
+
+
 
 
 
