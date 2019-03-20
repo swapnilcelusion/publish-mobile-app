@@ -45,6 +45,9 @@ Keep ready below details for organisation
 
 [5. Continue](https://developer.apple.com/enroll/organization/)
 
+It takes some days to verify DUNS if newly created. You will get confirmation on your mail box. 
+Once confirmed, you can make payment for organisation subscription via credit/debit card
+
 
 
 
