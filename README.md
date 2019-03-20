@@ -25,9 +25,15 @@ Click below to see first glance of Apple Programs
 
 [1. Enroll](https://developer.apple.com/programs/enroll/)
 
-You can see the 2 captions as individual and organisation. This is basic information of first step for what to choose for your enrollment.
+You can see the 2 captions as individual and organisation. This is basic information of first step for what to choose for your enrollment and click below
 
 [2. Start your enrollment](https://developer.apple.com/programs/enroll/)
+
+It automatically detects loggedIn Apple Account if any otherwise you have to create Apple ID with email ID. You can use your gmail ID to create Apple Account.
+
+
+
+
 
 
 
