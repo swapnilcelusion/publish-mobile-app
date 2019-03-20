@@ -38,7 +38,7 @@ If I select Organisation for instance then it asks organisation basic informatio
 [4. Submit Organisation Details](https://developer.apple.com/enroll/organization/)
 
 Keep ready below details for organisation
-1. D-U-N-S® Number - [See details](https://www.dunsnumber.co.in/apply-new-duns)
+1. D-U-N-S® Number - [See details](https://developer.apple.com/enroll/duns-lookup/)
 2. Legal Entity Name - Include the entity type, such as Inc., LLC, GmbH, etc.
 3. Website
 4. Tax ID/National ID - Optional
