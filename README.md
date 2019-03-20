@@ -23,7 +23,11 @@ This section is step-by-step guide on how to successfully enroll your account on
 
 Click below to see first glance of Apple Programs
 
-[Apple Programs](https://developer.apple.com/programs/)
+[Enroll](https://developer.apple.com/programs/enroll/)
+
+
+
+
 
 
 
