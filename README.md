@@ -18,3 +18,13 @@ To finish the sign up process, fill out all your necessary account details, incl
 
 Also, do remember that it can take up to 48 hours for your registration to be fully processed.
 
+### App Store
+This section is step-by-step guide on how to successfully enroll your account on the App store
+Click below to see first glance of Apple Programs
+
+[Apple Programs]https://developer.apple.com/programs/
+
+
+
+
+
