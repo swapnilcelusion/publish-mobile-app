@@ -23,11 +23,11 @@ This section is step-by-step guide on how to successfully enroll your account on
 
 Click below to see first glance of Apple Programs
 
-[1.Enroll](https://developer.apple.com/programs/enroll/)
+[1. Enroll](https://developer.apple.com/programs/enroll/)
 
 You can see the 2 captions as individual and organisation. This is basic information of first step for what to choose for your enrollment.
 
-[2.Start your enrollment](https://developer.apple.com/programs/enroll/)
+[2. Start your enrollment](https://developer.apple.com/programs/enroll/)
 
 
 
